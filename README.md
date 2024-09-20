@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**iannsp/iannsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is **Ivo Nacimento**. (**iannsp at gmail.com**)
 
-Here are some ideas to get you started:
+I'm a Product-Minded Software Engineer with +20 year experience from product discovery to product operation working at development, measurement and feature iteration always minding at customer perspective and company goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ivo Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=iannsp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannsp)](https://github.com/iannsp/github-readme-stats)
+
+My toolbox includes:
+- kanban
+- startup operations
+- Fit for purpose, customer interview
+- metrics and kpis
+- AWS and GCP
+- Workflow and BPM
+- Graphql, Rest
+- bash, php, python, javascript/node , postgreSQL pl's
+- Cache
+- nginx
+- postgresql
+- linux
+- OpenAi
+- OpenCV
+- TensorFlow
+- PyTorch
+- Pipefy
+
