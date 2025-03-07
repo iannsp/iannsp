@@ -5,7 +5,7 @@ I'm a Product-Minded Software Engineer with +20 year experience from product dis
 
 ![Ivo Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=iannsp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 . 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannsp)](https://github.com/iannsp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannsp&t=1)](https://github.com/iannsp/github-readme-stats)
 
 My toolbox includes:
 - kanban
