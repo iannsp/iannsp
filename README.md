@@ -8,6 +8,7 @@ I'm a Product-Minded Software Engineer with +20 year experience from product dis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannsp&t=1)](https://github.com/iannsp/github-readme-stats)
 
 My toolbox includes:
+- AI's (gemini, openAI)
 - kanban
 - startup operations
 - Fit for purpose, customer interview
@@ -15,7 +16,7 @@ My toolbox includes:
 - AWS and GCP
 - Workflow and BPM
 - Graphql, Rest
-- bash, php, python, javascript/node , postgreSQL pl's
+- bash, php, python, javascript/node , golang and postgreSQL pl's
 - Cache
 - nginx
 - postgresql
